@@ -1,7 +1,7 @@
 __build_info:
   rime_version: 1.5.3
   timestamps:
-    squirrel: 1561294610
+    squirrel: 1581745564
     squirrel.custom: 1581742715
 app_options:
   co.zeit.hyper:
@@ -28,6 +28,8 @@ app_options:
     ascii_mode: true
   com.microsoft.VSCode:
     ascii_mode: true
+  com.runningwithcrayons.Alfred:
+    ascii_mode: true
   "com.runningwithcrayons.Alfred-2":
     ascii_mode: true
   "com.runningwithcrayons.Alfred-3":
@@ -42,8 +44,9 @@ app_options:
   org.vim.MacVim:
     ascii_mode: true
     no_inline: true
+    vim_mode: true
 chord_duration: 0.1
-config_version: 0.33
+config_version: 0.34
 preset_color_schemes:
   mritd_dark:
     author: "mritd <mritd1234@gmail.com>"
